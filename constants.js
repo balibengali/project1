@@ -27,7 +27,7 @@ var Constants = {
   FUNDING_SI_SCALE: 1000,
   FUNDING_END_DATE: new Date("September 8, 2013"),
   PRODUCT_NAME: "News by the Numbers",
-  PRODUCT_SHORT_DESCRIPTION: "A quantitative look at our world to consume your news more quickly and efficiently and remember the facts"
+  PRODUCT_SHORT_DESCRIPTION: "A quantitative look at our world to consume your news more quickly and efficiently and remember the facts",
   TWITTER_USERNAME: "nodejs",
   TWITTER_TWEET: "This site is awesome!  Best way to consume News!",
   COINBASE_PREORDER_DATA_CODE: "f64e5615818100f014de4b594bd747c4",
